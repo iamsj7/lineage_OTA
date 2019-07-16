@@ -1,10 +1,5 @@
--> Changelog for 16-03-2019 :-
+-> Changelog for 17-07-2019 :-
 
-* Added auto face unlock on face match
-* Added back support for disabling Sim
-* Rotation Fixes
-* Binder backported form android kernel common 4.19
-* Performance fixes
 * All lineage upstream changes
 
 -> Instructions.
