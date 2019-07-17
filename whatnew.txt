@@ -1,6 +1,12 @@
 -> Changelog for 17-07-2019 :-
 
 * All lineage upstream changes
+* Fixed bt music
+* updated overlays
+* cleanup unwanted code
+* Added Atpx Blobs
+* Added SoundFX blobs
+* updated device props
 
 -> Instructions.
 Once the update is installed give it sometime to settle and wait for the device to cool down, Then start using like normal.
