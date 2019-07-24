@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1563369791,
-      "filename": "lineage-16.0-20190717-UNOFFICIAL-RMX1851.zip",
-      "id" : "55c2e1dbebfdf78a97742eff04ed89fc",
+      "datetime": 1563946042,
+      "filename": "lineage-16.0-20190724-UNOFFICIAL-RMX1851.zip",
+      "id" : "9c45ffbc78f9ab45e1af289f2dc0ff66",
       "romtype": "UNOFFICIAL",
-      "size": 577135197,
-      "url": "https://va2.androidfilehost.com/dl/bZH3SjsVHUdAwhZVEILb6A/1563602483/6006931924117918485/lineage-16.0-20190717-UNOFFICIAL-RMX1851.zip",
+      "size": 577021563,
+      "url": "https://sourceforge.net/projects/sjhub/files/RMX1851/lineage/lineage-16.0-20190724-UNOFFICIAL-RMX1851.zip/download",
       "version": "16.0"
     }
   ]
