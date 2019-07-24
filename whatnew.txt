@@ -1,12 +1,13 @@
--> Changelog for 17-07-2019 :-
+-> Changelog for 24-07-2019 :-
 
-* All lineage upstream changes
-* Fixed bt music
-* updated overlays
-* cleanup unwanted code
-* Added Atpx Blobs
-* Added SoundFX blobs
-* updated device props
+Changelog:
+- Fixed Face unlock ( trusted face )
+- Fixed round corners 
+- Added 420 dpi
+- Updated TCP Buffers 
+- cleanup unused overlays 
+- Fixed Airtel / Vodafone volte 
+- +LineageOS source  changes
 
 -> Instructions.
 Once the update is installed give it sometime to settle and wait for the device to cool down, Then start using like normal.
